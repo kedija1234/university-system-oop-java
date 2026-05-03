@@ -110,7 +110,6 @@ By completing this project, you will understand how Java uses inheritance and po
 ---
 
 ## 👨‍💻 Author
-
-Student Mini Project – Java OOP Concepts
+Kedija Nejmudin 
 
 ---
